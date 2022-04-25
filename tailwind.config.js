@@ -7,7 +7,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'logo': ['Akaya Telivigala',' cursive']
+        'logo': ['Akaya Telivigala',' cursive'],
+        'spectra': ['Spectral', 'serif'],
+        'raleway': ['Raleway', 'sans-serif']
       }
     },
   },

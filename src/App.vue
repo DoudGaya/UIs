@@ -5,7 +5,7 @@
 
 <script>
 
-import Home from './components/chemcider/Home.vue' 
+import Home from './components/acmegrid/Home.vue' 
 export default {
   components: {
     Home
