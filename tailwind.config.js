@@ -9,7 +9,10 @@ module.exports = {
       fontFamily: {
         'logo': ['Akaya Telivigala',' cursive'],
         'spectra': ['Spectral', 'serif'],
-        'raleway': ['Raleway', 'sans-serif']
+        'raleway': ['Raleway', 'sans-serif'],
+        'arapey': ['Arapey', 'serif'],
+        // new fonts for acmegrid
+        'inder': ['Inder', 'sans-serif']
       }
     },
   },
